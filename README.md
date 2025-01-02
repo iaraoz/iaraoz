@@ -4,7 +4,7 @@
 
 ## 🛡️ Cybersecurity Engineer
 
-With over 10 years of experience in cybersecurity, I specialize in:
+I specialize in:
 
 - **Application Security**: Conducting penetration tests on web and mobile applications.
 - **API REST Pentesting**: Assessing security and performing penetration tests on APIs.
@@ -24,10 +24,6 @@ Author of the book: [Implementación ISO/IEC 27001:2013: Un enfoque práctico](h
 - **Security Tools**: ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7A16?style=flat&logo=burp-suite&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-5A67D8?style=flat&logo=wazuh&logoColor=white) ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E00?style=flat&logo=crowdstrike&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![F5](https://img.shields.io/badge/F5-FF0000?style=flat&logo=f5&logoColor=white) ![Qualys](https://img.shields.io/badge/Qualys-000000?style=flat&logo=qualys&logoColor=white)
 - **Cloud Platforms**: ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-
 ## 📝 Personal Blog
 
 I share my knowledge and experiences in cybersecurity on my personal blog on Medium:
@@ -37,8 +33,4 @@ I share my knowledge and experiences in cybersecurity on my personal blog on Med
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iaraoz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:israel.araoz@gmail.com)
 
----
-
-*This profile is continually updated to reflect my latest projects and achievements.*
