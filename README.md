@@ -18,13 +18,13 @@ I specialize in:
 
 <p align="center">
   <a href="https://a.co/d/agXOnLq" target="_blank">
-    <img src="images/portada-2022-en.jpg" alt="ISO/IEC 27001:2022 Practical and Effective Implementation" width="180"/>
+    <img src="images/portada-2022-en.jpg" alt="ISO/IEC 27001:2022 Practical and Effective Implementation" width="180" height="250"/>
   </a>
   <a href="https://a.co/d/d6v47Sa" target="_blank">
-    <img src="images/portada-2022-es.jpg" alt="ISO/IEC 27001:2022 Implementación práctica y efectiva" width="180"/>
+    <img src="images/portada-2022-es.jpg" alt="ISO/IEC 27001:2022 Implementación práctica y efectiva" width="180" height="250"/>
   </a>
   <a href="https://a.co/d/2zfFXkc" target="_blank">
-    <img src="images/portada-2013-es.jpg" alt="Implementación ISO/IEC 27001:2013: Un enfoque práctico" width="180"/>
+    <img src="images/portada-2013-es.jpg" alt="Implementación ISO/IEC 27001:2013: Un enfoque práctico" width="180" height="250"/>
   </a>
 </p>
 
