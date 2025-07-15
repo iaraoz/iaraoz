@@ -14,9 +14,19 @@ I specialize in:
 
 - **ISO 27001 Implementation**: Led the implementation of ISO 27001 standards and achieved international certification for Bolivia's two largest oil refineries, enhancing information security in critical infrastructure.
 
-## 📚 Author
+## 📚 My Books
 
-Author of the book: [Implementación ISO/IEC 27001:2013: Un enfoque práctico](https://www.amazon.com/dp/B08XYZ1234)
+<p align="center">
+  <a href="https://a.co/d/agXOnLq" target="_blank">
+    <img src="images/portada-2022-en.jpg" alt="ISO/IEC 27001:2022 Practical and Effective Implementation" width="180"/>
+  </a>
+  <a href="https://a.co/d/d6v47Sa" target="_blank">
+    <img src="images/portada-2022-es.jpg" alt="ISO/IEC 27001:2022 Implementación práctica y efectiva" width="180"/>
+  </a>
+  <a href="https://a.co/d/2zfFXkc" target="_blank">
+    <img src="images/portada-2013-es.jpg" alt="Implementación ISO/IEC 27001:2013: Un enfoque práctico" width="180"/>
+  </a>
+</p>
 
 ## 🛠️ Technical Skills
 
